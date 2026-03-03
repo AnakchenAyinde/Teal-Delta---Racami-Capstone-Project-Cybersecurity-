@@ -1,4 +1,4 @@
-Teal Delta — Racami Enterprise Security Assessment 🛡️
+Team Delta — Racami Enterprise Security Assessment 🛡️
 
 📺 Click Here to Watch Our Team's Project Presentation : https://vimeo.com/1165263986/244b7431d3?fl=pl&fe=sh
 
