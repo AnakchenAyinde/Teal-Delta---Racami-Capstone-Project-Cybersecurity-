@@ -6,6 +6,25 @@ A comprehensive walkthrough of our findings, technical analysis, and executive r
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Team Members
+
+Anakchen Ayinde - Lead Analyst / Presenter
+
+Matthew Staton - Threat Hunter / Vice Lead
+
+Tizita Hailu - OSINT Analyst
+
+Urvashi Aggarwal - Mitigation Analyst
+
+Norman Joeng - AI Prompt Engineer
+
+Jada Williams - Scribe
+
+Rabihu Hussein - Co-Scribe
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Project Overview
 
 This capstone project was a collaborative security consultancy engagement executed by Teal Delta, a 7-member team of security professionals. We functioned as external consultants for Racami, performing an end-to-end security posture assessment that balanced technical vulnerability discovery with high-level GRC (Governance, Risk, and Compliance) strategy.
